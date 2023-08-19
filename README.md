@@ -2,6 +2,9 @@
 
 DIBBA is an intentionally vulnerable Android application that adds a fun way of learning the core concepts of Android building blocks. Each activity not only explains a specific Android component but also presents a corresponding vulnerability to test your skills. Designed for Android developers and pentesters, DIBBA provides an interactive platform to grasp and practice fundamental Android concepts in a unique way.
 
+![image](https://github.com/Sn1r/DIBBA/assets/71400526/7ee33f20-8958-46a2-a306-050c9c03e384)
+
+
 
 ## Notes
 * The challenges themselves aren't meant to be overly difficult, as they are mainly focused on the learning process
