@@ -11,7 +11,7 @@ DIBBA is an intentionally vulnerable Android application that adds a fun way of 
 * Each challenge comes with its own flag, which you'll receive upon completion
 * Although the app is all about exploring the fundamental components, you'll sometimes need to dive into the source code for certain challenges
 
-## Usage & Installation
+## Installation
 
 You can compile the application from source or download it straight from release.
 
@@ -26,4 +26,4 @@ I would appreciate any feedback, including bug reports and corrections you come 
 
 ### Name Idea
 
-The name idea comes as an inspiration from various other "intentionally vulernable" appllciations found in the wild, such as DIVA, DVWA, DVWS, etc.
+The name idea comes as an inspiration from various other "intentionally vulnerable" applications found in the wild, such as DIVA, DVWA, DVWS, etc.
