@@ -34,7 +34,7 @@
 
     <Button
         android:id="@+id/btn2"
-        android:layout_width="390dp"
+        android:layout_width="370dp"
         android:layout_height="48dp"
         android:layout_marginTop="32dp"
         android:text="Implicit Intent"
@@ -45,7 +45,7 @@
 
     <Button
         android:id="@+id/btn6"
-        android:layout_width="390dp"
+        android:layout_width="370dp"
         android:layout_height="48dp"
         android:layout_marginTop="8dp"
         android:text="Explicit Intent"
@@ -56,7 +56,7 @@
 
     <Button
         android:id="@+id/btn5"
-        android:layout_width="390dp"
+        android:layout_width="370dp"
         android:layout_height="48dp"
         android:layout_marginTop="8dp"
         android:text="Broadcast Receiver"
@@ -67,7 +67,7 @@
 
     <Button
         android:id="@+id/btn3"
-        android:layout_width="390dp"
+        android:layout_width="370dp"
         android:layout_height="48dp"
         android:layout_marginTop="8dp"
         android:text="Content Provider"
@@ -78,7 +78,7 @@
 
     <Button
         android:id="@+id/btn4"
-        android:layout_width="390dp"
+        android:layout_width="370dp"
         android:layout_height="48dp"
         android:layout_marginTop="8dp"
         android:text="Services"

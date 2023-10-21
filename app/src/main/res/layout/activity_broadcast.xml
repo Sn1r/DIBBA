@@ -6,7 +6,7 @@
 
     <TextView
         android:id="@+id/explanationTextBroadcast"
-        android:layout_width="390dp"
+        android:layout_width="370dp"
         android:layout_height="121dp"
         android:layout_gravity="center"
         android:layout_marginTop="32dp"

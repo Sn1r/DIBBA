@@ -41,7 +41,7 @@
 
     <TextView
         android:id="@+id/tvExplanation"
-        android:layout_width="358dp"
+        android:layout_width="350dp"
         android:layout_height="157dp"
         android:layout_marginTop="48dp"
         android:text="An explicit intent specifies the exact target component, such as an activity or service, within the same application. It provides precise navigation control by specifying the component's class name and package name. \nExplicit intents that are not properly validated can be exploited by malicious actors to launch arbitrary components, which can lead to data theft or other security vulnerabilities."

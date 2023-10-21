@@ -8,10 +8,11 @@
 
     <TextView
         android:id="@+id/exp"
-        android:layout_width="212dp"
-        android:layout_height="175dp"
+        android:layout_width="270dp"
+        android:layout_height="180dp"
         android:layout_gravity="center"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginLeft="30dp"
         android:text="Content providers allow different applications to share data. \nThey act as a structured interface to manage and access data stored in a centralized manner. Sometimes, content providers can be exploited by malicious applications to access sensitive data via different attack vectors." />
 
     <TextView
@@ -46,7 +47,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:layout_marginTop="16dp" />
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="20dp"
+            />
 
     </ScrollView>
 
