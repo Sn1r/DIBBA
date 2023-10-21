@@ -9,7 +9,7 @@
         android:layout_width="350dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="100dp"
         android:layout_marginBottom="16dp"
         android:text="Services are background tasks that perform operations independently of the user interface. They can run indefinitely, even when the app is not in the foreground.\nServices that are not properly secured can be exploited by malicious actors to leak sensitive data or hijack the service itself."
         android:textAlignment="center"

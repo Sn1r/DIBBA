@@ -9,7 +9,7 @@
         android:layout_width="370dp"
         android:layout_height="121dp"
         android:layout_gravity="center"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="70dp"
         android:layout_marginBottom="16dp"
         android:text="Broadcast receivers listen for system-wide events or custom broadcasts. When an event occurs, the receiver triggers a designated action.\nBroadcast receivers that are not properly secured can be exploited by malicious actors to send unauthorized broadcasts, which can trigger unintended actions in the receiver."
         android:textAlignment="center"
